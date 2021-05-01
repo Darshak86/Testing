@@ -9,7 +9,7 @@ const App = () => {
         justifyContent: "center",
         alignItems: "center"
       }}>
-      <Text>Hello, world... from Darshak 111!</Text>
+      <Text>Hello, world... from Darshak Trivedi!</Text>
     </View>
   )
 }
